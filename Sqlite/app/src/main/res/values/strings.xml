@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sqlite</string>
+    <string name="student_information">STUDENT INFORMATION</string>
+    <string name="enter_student_id">Enter Student ID</string>
+    <string name="enter_full_name">Enter Full Name</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="insert_new_data">INSERT NEW DATA</string>
+    <string name="delete_existing_data">DELETE EXISTING DATA</string>
+    <string name="update_data">UPDATE DATA</string>
+    <string name="view_all_data">VIEW ALL DATA</string>
+    <string name="add_information">ADD INFORMATION</string>
+    <string name="delete_information">DELETE INFORMATION</string>
+    <string name="update">UPDATE</string>
+    <string name="view_all">VIEW ALL</string>
+</resources>
